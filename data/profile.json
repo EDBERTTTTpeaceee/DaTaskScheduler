@@ -1,0 +1,78 @@
+{
+  "repo_fingerprint": null,
+  "n_tasks": 5,
+  "uniqueness": {
+    "avg": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "top_signatures": [
+    {
+      "sig": "17cu7yzywwxc",
+      "count": 1
+    },
+    {
+      "sig": "3fo52dy90fam",
+      "count": 1
+    },
+    {
+      "sig": "3qr9ldi7wgm2",
+      "count": 1
+    },
+    {
+      "sig": "4ragjka140l7",
+      "count": 1
+    },
+    {
+      "sig": "axamrqe1zbk",
+      "count": 1
+    }
+  ],
+  "sample_signatures": [
+    {
+      "id": "434178c7-dad9-4861-9c71-8384fcdee22a",
+      "title_norm": "ddd",
+      "phonetic": "ddd",
+      "trigram_count": 5,
+      "trigram_uniques": 5,
+      "uniqueness_score": 1.0,
+      "signature": "axamrqe1zbk"
+    },
+    {
+      "id": "0d9712d9-cae1-469b-9f9e-10703a62b0f2",
+      "title_norm": "ee",
+      "phonetic": "ee",
+      "trigram_count": 4,
+      "trigram_uniques": 4,
+      "uniqueness_score": 1.0,
+      "signature": "4ragjka140l7"
+    },
+    {
+      "id": "d769f2fb-53ff-47c3-a698-b26c3dcdcd5c",
+      "title_norm": "2055okk",
+      "phonetic": "2055okk",
+      "trigram_count": 9,
+      "trigram_uniques": 9,
+      "uniqueness_score": 1.0,
+      "signature": "3fo52dy90fam"
+    },
+    {
+      "id": "6b07be50-37cb-407d-a1aa-bb2f980c436f",
+      "title_norm": "333ok0",
+      "phonetic": "333ok0",
+      "trigram_count": 8,
+      "trigram_uniques": 8,
+      "uniqueness_score": 1.0,
+      "signature": "3qr9ldi7wgm2"
+    },
+    {
+      "id": "c188976f-5af6-4623-b338-26f21d11dc0b",
+      "title_norm": "rrr",
+      "phonetic": "rrr",
+      "trigram_count": 5,
+      "trigram_uniques": 5,
+      "uniqueness_score": 1.0,
+      "signature": "17cu7yzywwxc"
+    }
+  ]
+}

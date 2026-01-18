@@ -1,0 +1,7 @@
+tasks: 5
+uniqueness avg/min/max: 1.0/1.0/1.0
+17cu7yzywwxc: 1
+3fo52dy90fam: 1
+3qr9ldi7wgm2: 1
+4ragjka140l7: 1
+axamrqe1zbk: 1
